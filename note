@@ -1,0 +1,2 @@
+views.py对一个input标签中上传的多个文件进行批量处理
+form.html提供一个input标签中多文件上传模板
